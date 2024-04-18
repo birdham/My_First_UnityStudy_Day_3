@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ac31c88571adaee4581b285dd728a2e6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - firstCard: {instanceID: 0}
+  - secondCard: {instanceID: 0}
+  - timeTxt: {instanceID: 0}
+  - endTxt: {instanceID: 0}
+  - endPanel: {instanceID: 0}
+  - NowScore: {instanceID: 0}
+  - BestScore: {instanceID: 0}
+  - clip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
